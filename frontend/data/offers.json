@@ -1,0 +1,22 @@
+[
+  {
+    "imgSrc": "Assets/img (10).jpg",
+    "destTitle": "Machu Picchu",
+    "location": "Peru",
+    "price": "$7,450"
+  },
+
+  {
+    "imgSrc": "Assets/img (6).jpg",
+    "destTitle": "Great Barrier Reef",
+    "location": "Australia",
+    "price": "$2,452"
+  },
+
+  {
+    "imgSrc": "Assets/img (7).jpg",
+    "destTitle": "Agnkor Wat",
+    "location": "Cambodia",
+    "price": "$4,400"
+  }
+]

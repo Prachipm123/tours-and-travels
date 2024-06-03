@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "imgSrc": "Assets/img (2).jpg",
+    "destTitle": "Machu Picchu",
+    "location": "Peru",
+    "grade": "CULTURAL RELAX"
+  },
+
+  {
+    "id": 2,
+    "imgSrc": "Assets/img (5).jpg",
+    "destTitle": "Great Barrier Reef",
+    "location": "Australia",
+    "grade": "CULTURAL RELAX"
+  },
+
+  {
+    "id": 3,
+    "imgSrc": "Assets/img (5.1).jpg",
+    "destTitle": "Cappadocia",
+    "location": "Turkey",
+    "grade": "CULTURAL RELAX"
+  },
+
+  {
+    "id": 4,
+    "imgSrc": "Assets/img (7).jpg",
+    "destTitle": "Guanajuato",
+    "location": "Mexico",
+    "grade": "CULTURAL RELAX"
+  }
+]
